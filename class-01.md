@@ -25,10 +25,10 @@ What is a Variable and why are they important in JavaScript?
     An HTML attribute is additional information for the element, such as how the element will be styled.
     
   Describe the Anatomy of an HTMl element.
-    There is an opening tag surrounded by angle brackets, and being the name of the element. Next, the content of the element. Lastley,         there is a closing tag which is the same as the opening but with a forward slash before the element name.
+    There is an opening tag surrounded by angle brackets, and being the name of the element. Next, the content of the element. Lastly,          there is a closing tag which is the same as the opening but with a forward slash before the element name.
     
   What is the Difference between <article> and <section> element tags?
-    An <article> is a self contained composition that can be reused. A <section> is a generic element used if a more specific element           cannot represent it.
+    An <article> is a self contained composition that can be reused. A section is a generic element used if a more specific element             cannot represent it.
   
   What Elements does a “typical” website include?
     A typical website includes a header, navigation bar, main content, sidebar, and footer.
@@ -37,7 +37,7 @@ What is a Variable and why are they important in JavaScript?
     Metadata is data that describes data, which allows for an increase in keywords and more relevant search results.
     
   How is the <meta> HTML tag used when specifying metadata?
-    The <meta> tag is used when the metadata cannot be represented by HTML elements.
+    The meta tag is used when the metadata cannot be represented by HTML elements.
 
 #How to start to design a Website
 
@@ -50,7 +50,7 @@ What is a Variable and why are they important in JavaScript?
 #Semantics
 
   Why should you use an <h1> element over a <span> element to display a top level heading?
-    The <h1> element is a semantic that wraps it's content with a specific meaning, where as <span> isn't a semantic and won't always           define a top level heading
+    The h1 element is a semantic that wraps it's content with a specific meaning, where as span isn't a semantic and won't always               define a top level heading
   
   What are the benefits of using semantic tags in our HTML?
     The benefit of using semantics include improved SEO, help the visually impaired navigate a page, ease of use to code, and ease for          developer review.
