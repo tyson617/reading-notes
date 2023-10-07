@@ -6,8 +6,9 @@
 
 ## _Code 201_ - **Foundations of Software Development**
 
-   - [Class 01](class-01.md)<br>
-   - [Class 02](class-02.md)<br>
+   - [Class-01](class-01.md)<br>
+   - [Class-02](class-02.md)<br>
+   - [Class-03](class-03.md)<br>
    
 ## _Code 301_ - **Intermediate Software Development**
 
