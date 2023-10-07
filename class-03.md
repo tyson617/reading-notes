@@ -1,6 +1,6 @@
 # Class-03 Reading Notes
 
-# HTML
+## HTML
 
 - When should you use an unordered list in your HTML document?<br>
   - When listing something that doesn’t have a specific numbered order and when you     want to use bullet points.<br>
@@ -14,7 +14,7 @@
 - Describe two ways you can change the numbers on list items provided by an ordered list?<br>
   - You can use <ol start=” “> or <ol type=” “> <br>
 
-# CSS
+## CSS
 
 - Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?<br>
   - The margin box is the space surrounding the padding box, being the outermost border. The padding box surround the content.<br>
@@ -22,7 +22,7 @@
 - List and describe the four parts of an HTML elements box as referred to by the box model.<br>
   - The four parts of an HTML box model are box-sizing, *, , *::before, *::after, and followed by box-sizing: inherit.<br>
 
-# JavaScript
+## JavaScript
 
 - What data types can you store inside of an Array?<br>
   - Strings, numbers, objects, or other arrays.<br>
