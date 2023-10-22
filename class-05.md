@@ -29,3 +29,34 @@
 - What image type would you use to display a screenshot on your website and why?<br>
 
   - A PNG or lossless WebP because they are best at compressing without losing quality, which is especially important if there’s text in the image.<br>
+
+## CSS
+
+- Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.<br>
+
+  - Foreground color is the color of the actual text on a web page, while the background colors surround the text.<br>
+
+- Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?<br>
+
+  - I would add a background color, vibrant color to the blog title, and highlight key elements.<br>
+
+- What should you consider when choosing fonts for an HTML document?<br>
+
+  - Size
+  - Families
+  - Web Safe Fonts
+  - Stacks
+  - Default Fonts
+
+- What do font-size, font-weight, and font-style do to HTML text elements?<br>
+
+  - Font-Size
+  - Determines the actual size of the text
+  - Font-Weight
+  - Determines how bold the text is
+  - Font-Style
+  - Determines if the text is italicized 
+
+- Describe two ways you could add spacing around the characters displayed in an h1 element.<br>
+
+  - `letter-spacing` or `word-spacing`
