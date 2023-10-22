@@ -10,6 +10,7 @@
    - [Class-02](class-02.md)<br>
    - [Class-03](class-03.md)<br>
    - [Class-04](class-04.md)<br>
+   - [Class-05](class-05.md)<br>
    
 ## _Code 301_ - **Intermediate Software Development**
 
