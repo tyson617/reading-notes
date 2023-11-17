@@ -1,4 +1,4 @@
-# Class 07 Reading Notes
+# Class-07 Reading Notes
 
 ## Domain Modeling
 
