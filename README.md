@@ -20,6 +20,7 @@
    - [Class-12](class-12.md)
    - [Class-13](class-13.md)
    - [Class-14](class-14.md)
+   - [Class-14 Psychological Safety](class-14-Psychological-Safety.md)
    
 ## _Code 301_ - **Intermediate Software Development**
 
